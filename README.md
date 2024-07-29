@@ -5,7 +5,7 @@ I am a passionate data analytics and business intelligence professional with exp
 
  
 - 🔭 I'm currently working on improving my SQL skills through the following practice projects.
-     https://github.com/Luvandale/Advanced-SQL-practice/tree/main
+     https://github.com/Luvandale/Advanced-SQL-practice/tree/main and https://github.com/Luvandale/Basic-SQL
 
 - 🌱 I’m currently learning tableau
 - 👯 I’m looking to collaborate on more SQL and Python projects

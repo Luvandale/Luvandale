@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Diana Luvandale; 
+I am Diana Luvandale; 
 
 I am a passionate data analytics and business intelligence professional with experience in leveraging BI tools and programming languages  to uncover insights and drive decision-making. With a deep understanding of data structures and analytical techniques, I excel at transforming raw data into actionable insights. My expertise in tools like Excel/Google Sheets, Looker, Superset, tableau, and programming languages like SQL, Python, and R allows me to build comprehensive dashboards, perform detailed analyses, and support strategic initiatives. Whether it's through data visualization, predictive modelling, or process optimization, I am committed to helping organizations harness the power of data for improved outcomes.
 
